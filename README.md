@@ -14,6 +14,6 @@
  - 핵심 라이브러리 : opencv, openpose
 
 ## 개발 다이어그램
-- 
+- Hanieum GitLab에 파일 존재
 
 ## 결과
